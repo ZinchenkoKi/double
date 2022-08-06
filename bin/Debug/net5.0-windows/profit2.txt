@@ -1,0 +1,10 @@
+E:\Test\xcx\1as.docx
+E:\Test\xcx\1as.txt
+E:\Test\xcx\WinRAR archive.rar
+E:\Test\xcx\Лист Microsoft Excel.xlsx
+E:\Test\xcx\e\1as.txt
+E:\Test\xcx\e\WinRAR archive.rar
+E:\Test\xcx\e\Лист Microsoft Excel.xlsx
+E:\Test\xcx\e\notdel\1as.txt
+E:\Test\xcx\e\notdel\WinRAR archive.rar
+E:\Test\xcx\e\notdel\Лист Microsoft Excel.xlsx

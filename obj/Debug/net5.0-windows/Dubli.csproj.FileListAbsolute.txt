@@ -1,0 +1,38 @@
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.exe
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.deps.json
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.runtimeconfig.json
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.runtimeconfig.dev.json
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.dll
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\bin\Debug\net5.0-windows\ref\Dubli.dll
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.pdb
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.csproj.AssemblyReference.cache
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.Form1.resources
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.csproj.GenerateResource.cache
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.AssemblyInfoInputs.cache
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.AssemblyInfo.cs
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.csproj.CoreCompileInputs.cache
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.dll
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\ref\Dubli.dll
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.pdb
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.genruntimeconfig.cache
+E:\Учеба\4 курс\Курсовая\Dubli\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.exe
+C:\Users\Кирилл\Desktop\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.deps.json
+C:\Users\Кирилл\Desktop\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.runtimeconfig.json
+C:\Users\Кирилл\Desktop\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.runtimeconfig.dev.json
+C:\Users\Кирилл\Desktop\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.dll
+C:\Users\Кирилл\Desktop\Dubli\Dubli\bin\Debug\net5.0-windows\Dubli.pdb
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.Form1.resources
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.dll
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\refint\Dubli.dll
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.pdb
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\Dubli.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\Dubli\Dubli\obj\Debug\net5.0-windows\ref\Dubli.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g6+w8+BuSu9coFtGZOVdKphRI9pSBq5rDyTfilrlsPKp89qFb2lNMVZkj4t9p/DIb/StAxtwklyZULnhiYO4Gw==",
+  "success": true,
+  "projectFilePath": "E:\\Учеба\\4 курс\\Курсовая\\Dubli\\Dubli\\Dubli\\Dubli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.7\\microsoft.netcore.app.runtime.win-x86.5.0.7.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.7\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.7.nupkg.sha512",
+    "C:\\Users\\Кирилл\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.7\\microsoft.aspnetcore.app.runtime.win-x86.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
